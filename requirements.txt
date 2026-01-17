@@ -1,0 +1,13 @@
+# Telegram Bot Framework
+python-telegram-bot==20.7
+
+# Database
+SQLAlchemy==2.0.23
+psycopg2-binary==2.9.9
+
+# HTTP Client
+requests==2.31.0
+
+# Environment variables (optional, Railway injects directly)
+python-dotenv==1.0.0
+
